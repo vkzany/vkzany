@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🤍 
 
-<!--
-**vkzany/vkzany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Any!!
 
-Here are some ideas to get you started:
+- estou estudando no [Alura](https://www.alura.com.br)
+- estou me desenvolvendo em linguagem javascript
+- ultilizo esse espaço para minha organização pessoal e compartilhamento de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+kawany.bornia@escola.pr.gov.br
+
+@vkzany
+
+
+https://media.tenor.com/iL1-s5TP0yQAAAAd/el-papu-sdlg.gif
